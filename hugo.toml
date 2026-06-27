@@ -14,18 +14,13 @@ palette = "base16-custom"
 
 [params.about]
 title = 'puranikvinit'
-description = 'Ex - SoC Engineering Intern @ARM | Upcoming Firmware Engineer @Texas Instruments | Systems Lead @IRIS, NITK | ECE Senior, NITK'
+description = 'M.Sc. ES @ Technische Universiteit Eindhoven (TU/e)'
 logo_image = 'images/profile.jpg'
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/puranikvinit"
-
-[[params.socialLinks]]
-icon = "fa-brands fa-linkedin"
-title = "LinkedIn"
-url = "https://www.linkedin.com/in/vinit-puranik-326794215"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
